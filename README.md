@@ -29,7 +29,7 @@ Two main questions are settled for this case:
 ## III. Visualization
 
 ### Overview
-<img width="1228" height="705" alt="image" src="https://github.com/ptnam190901-ai/Power-BI---Shopee-Logistics/blob/main/Shopee_Delivery_Dashboard.pdf" />
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/8b1eb6b3-ac02-4c00-a3c1-b2e266aaa0b8" />
 
 ### Insights
 - The time required to prepare packages for delivery reaPcowhere BsI D eitsksto ppeak at the end and the beginning of the year. This can be explained by the Tet holiday, during which people intensively purchase items online for decorations and groceries. The surge in orders leads to traffic congestion and delays in the delivery process.
